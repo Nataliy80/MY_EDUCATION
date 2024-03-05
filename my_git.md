@@ -1,4 +1,4 @@
-[![logo](github.png)](https://github.com/) 
+[![logo](git_logo.png)](https://git-scm.com/) 
 # GIT - инструкции и команды
 
 ## Git - *это система контроля версий с локальными и удаленными репозиториями*
