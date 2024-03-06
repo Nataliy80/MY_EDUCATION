@@ -64,8 +64,8 @@ git log -graph - выводит список коммитов в виде дер
 
 ### Конфликты
 1. Accept Current Change - оставить текущую версию.
-2. Accept Incoming Change - принять версию от другой ветки.
-3. Accept Both Change - оставить оба варианта.
++ Accept Incoming Change - принять версию от другой ветки.
++ Accept Both Change - оставить оба варианта.
 
 ### Работа с удаленным репозиторием
 
